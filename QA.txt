@@ -1,5 +1,5 @@
-﻿Logs for Application Load Balancer?
-5 files for 5 APB or for one?
-If 5 APB, are 5 APB have same or different configurations?
-If 5 files for 5 APB, do they serve requests for 1 app or 5 different apps?
-If 5 APB are differently configured, then I assume that for each configuration I will find different securirty vulnerabilities
+﻿Logs for Application Load Balancer? Yes
+5 files for 5 ALB or for one? One ALB
+If 5 ALB, do 5 ALB have same or different configurations? One ALB
+If 5 files for 5 ALB, do they serve requests for 1 app or 5 different apps? One ALB for 1 app
+If 5 ALB are differently configured, then I assume that for each configuration I will find different security vulnerabilities. One ALB
